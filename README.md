@@ -3,8 +3,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Hello%20Coders&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Workspace" width="40%"/>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 </div>
 
 👋 Hi, I'm Hossam Youssef
@@ -111,7 +110,28 @@ public:
 
 <hr>
 
-<div align="center">
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Hoss-Abcarino" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/_its.hossam_?igsh=ajUyMTN6a2lnOGNk&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/share/1BShdbkki8/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="mailto:hossamzabcarino@gmail.com">
+    <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hossam-youssef/" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center" width="50">
 
 **Code Cycle**<br>
 
@@ -121,8 +141,13 @@ public:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<br>
 
-### ⭐ Thanks for visiting my profile!
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+
+<div align="center" width="50">
+<div align="center">
+    
+ ⭐ Thanks for visiting my profile!
 
 </div>
