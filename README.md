@@ -1,9 +1,13 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<div align="center">
 
-# 👋 Hi, I'm Hossam Youssef
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Hello%20Coders&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
+
+
+</div>
+👋 Hi, I'm Hossam Youssef
 
 ### 🎓 Computer Engineering Student  
 ### 💻 C | C++ | Java | Flutter Developer  
