@@ -3,8 +3,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Hello%20Coders&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Workspace" width="40%"/>
 
-<
+</div>
+
 👋 Hi, I'm Hossam Youssef
 
 ### 🎓 Computer Engineering Student  
